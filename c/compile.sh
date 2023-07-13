@@ -1,0 +1,1 @@
+emcc main.c -o main.js -sEXPORTED_FUNCTIONS=_int_sqrt -sEXPORTED_RUNTIME_METHODS=ccall,cwrap
